@@ -32,8 +32,7 @@ It combines computer vision, deep learning, and large language models to provide
 | `emotion_model.py`   | Trains the emotion recognition model             |
 | `video_processing.py`| Extracts emotions frame-by-frame from videos     |
 | `image_processing.py`| Processes individual athlete images              |
-| `report_generator.py`| Generates natural language psychological reports |
-| `labeled_faces.zip`  | Custom dataset used for training (8 emotions)    |
+| `Faces_dataset.zip`  | Custom dataset used for training (8 emotions)    |
 
 ---
 
