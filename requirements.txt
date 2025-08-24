@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+transformers
+facenet-pytorch
+deep_sort_realtime

@@ -1,0 +1,7988 @@
+{
+  "ahamd": {
+    "emotion_readings": [
+      {
+        "time": "22.36",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "22.56",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "22.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "22.96",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "23.16",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "23.36",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "23.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "23.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "23.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "24.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "24.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "24.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "24.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "24.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "25.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "25.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "25.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "25.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "25.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "26.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "26.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "26.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "26.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "26.96",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "22.36",
+        "x": 387,
+        "y": 142,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "22.56",
+        "x": 392,
+        "y": 136,
+        "speed": 7.81,
+        "direction": "Up"
+      },
+      {
+        "time": "22.76",
+        "x": 394,
+        "y": 133,
+        "speed": 3.61,
+        "direction": "Up"
+      },
+      {
+        "time": "22.96",
+        "x": 402,
+        "y": 133,
+        "speed": 8.0,
+        "direction": "Right"
+      },
+      {
+        "time": "23.16",
+        "x": 409,
+        "y": 133,
+        "speed": 7.0,
+        "direction": "Right"
+      },
+      {
+        "time": "23.36",
+        "x": 412,
+        "y": 134,
+        "speed": 3.16,
+        "direction": "Right"
+      },
+      {
+        "time": "23.56",
+        "x": 417,
+        "y": 141,
+        "speed": 8.6,
+        "direction": "Down"
+      },
+      {
+        "time": "23.76",
+        "x": 421,
+        "y": 140,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "23.96",
+        "x": 426,
+        "y": 139,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "24.16",
+        "x": 430,
+        "y": 138,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "24.36",
+        "x": 435,
+        "y": 137,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "24.56",
+        "x": 439,
+        "y": 136,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "24.76",
+        "x": 444,
+        "y": 135,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "24.96",
+        "x": 449,
+        "y": 134,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "25.16",
+        "x": 453,
+        "y": 134,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "25.36",
+        "x": 458,
+        "y": 133,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "25.56",
+        "x": 462,
+        "y": 132,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "25.76",
+        "x": 467,
+        "y": 131,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "25.96",
+        "x": 471,
+        "y": 130,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "26.16",
+        "x": 476,
+        "y": 129,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "26.36",
+        "x": 481,
+        "y": 128,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "26.56",
+        "x": 485,
+        "y": 128,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "26.76",
+        "x": 490,
+        "y": 126,
+        "speed": 5.39,
+        "direction": "Right"
+      },
+      {
+        "time": "26.96",
+        "x": 494,
+        "y": 126,
+        "speed": 4.0,
+        "direction": "Right"
+      }
+    ]
+  },
+  "r": {
+    "emotion_readings": [
+      {
+        "time": "28.56",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "28.56",
+        "x": 240,
+        "y": -106,
+        "speed": 0,
+        "direction": "Unknown"
+      }
+    ]
+  },
+  "w": {
+    "emotion_readings": [
+      {
+        "time": "50.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "51.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "51.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "51.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "51.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "51.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "52.16",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "52.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "52.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "52.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "52.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "53.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "53.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "53.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "53.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "53.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "54.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "54.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "54.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "54.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "54.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "55.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "55.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "55.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "55.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "55.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "56.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "56.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "56.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "56.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "56.96",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "57.16",
+        "emotion": "Surprise"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "50.96",
+        "x": 301,
+        "y": 132,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "51.16",
+        "x": 295,
+        "y": 129,
+        "speed": 6.71,
+        "direction": "Left"
+      },
+      {
+        "time": "51.36",
+        "x": 289,
+        "y": 134,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "51.56",
+        "x": 283,
+        "y": 139,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "51.76",
+        "x": 277,
+        "y": 145,
+        "speed": 8.49,
+        "direction": "Down"
+      },
+      {
+        "time": "51.96",
+        "x": 271,
+        "y": 150,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "52.16",
+        "x": 265,
+        "y": 155,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "52.36",
+        "x": 260,
+        "y": 160,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "52.56",
+        "x": 253,
+        "y": 165,
+        "speed": 8.6,
+        "direction": "Left"
+      },
+      {
+        "time": "52.76",
+        "x": 247,
+        "y": 171,
+        "speed": 8.49,
+        "direction": "Down"
+      },
+      {
+        "time": "52.96",
+        "x": 241,
+        "y": 176,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "53.16",
+        "x": 235,
+        "y": 181,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "53.36",
+        "x": 230,
+        "y": 187,
+        "speed": 7.81,
+        "direction": "Down"
+      },
+      {
+        "time": "53.56",
+        "x": 223,
+        "y": 192,
+        "speed": 8.6,
+        "direction": "Left"
+      },
+      {
+        "time": "53.76",
+        "x": 217,
+        "y": 197,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "53.96",
+        "x": 212,
+        "y": 202,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "54.16",
+        "x": 205,
+        "y": 207,
+        "speed": 8.6,
+        "direction": "Left"
+      },
+      {
+        "time": "54.36",
+        "x": 200,
+        "y": 212,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "54.56",
+        "x": 193,
+        "y": 218,
+        "speed": 9.22,
+        "direction": "Left"
+      },
+      {
+        "time": "54.76",
+        "x": 187,
+        "y": 223,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "54.96",
+        "x": 182,
+        "y": 228,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "55.16",
+        "x": 175,
+        "y": 234,
+        "speed": 9.22,
+        "direction": "Left"
+      },
+      {
+        "time": "55.36",
+        "x": 170,
+        "y": 239,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "55.56",
+        "x": 164,
+        "y": 244,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "55.76",
+        "x": 157,
+        "y": 249,
+        "speed": 8.6,
+        "direction": "Left"
+      },
+      {
+        "time": "55.96",
+        "x": 152,
+        "y": 254,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "56.16",
+        "x": 145,
+        "y": 260,
+        "speed": 9.22,
+        "direction": "Left"
+      },
+      {
+        "time": "56.36",
+        "x": 140,
+        "y": 265,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "56.56",
+        "x": 134,
+        "y": 270,
+        "speed": 7.81,
+        "direction": "Left"
+      },
+      {
+        "time": "56.76",
+        "x": 127,
+        "y": 276,
+        "speed": 9.22,
+        "direction": "Left"
+      },
+      {
+        "time": "56.96",
+        "x": 122,
+        "y": 281,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "57.16",
+        "x": 115,
+        "y": 286,
+        "speed": 8.6,
+        "direction": "Left"
+      }
+    ]
+  },
+  "ff": {
+    "emotion_readings": [
+      {
+        "time": "65.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "65.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "66.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "66.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "66.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "66.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "66.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "67.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "67.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "67.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "67.76",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "67.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "68.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "68.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "68.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "68.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "68.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "69.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "69.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "69.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "69.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "69.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "70.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "70.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "70.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "70.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "70.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "73.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "73.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "73.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "73.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "73.96",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "65.76",
+        "x": 538,
+        "y": 72,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "65.96",
+        "x": 545,
+        "y": 78,
+        "speed": 9.22,
+        "direction": "Right"
+      },
+      {
+        "time": "66.16",
+        "x": 544,
+        "y": 77,
+        "speed": 1.41,
+        "direction": "Up"
+      },
+      {
+        "time": "66.36",
+        "x": 540,
+        "y": 75,
+        "speed": 4.47,
+        "direction": "Left"
+      },
+      {
+        "time": "66.56",
+        "x": 543,
+        "y": 72,
+        "speed": 4.24,
+        "direction": "Up"
+      },
+      {
+        "time": "66.76",
+        "x": 547,
+        "y": 80,
+        "speed": 8.94,
+        "direction": "Down"
+      },
+      {
+        "time": "66.96",
+        "x": 548,
+        "y": 100,
+        "speed": 20.02,
+        "direction": "Down"
+      },
+      {
+        "time": "67.16",
+        "x": 547,
+        "y": 113,
+        "speed": 13.04,
+        "direction": "Down"
+      },
+      {
+        "time": "67.36",
+        "x": 534,
+        "y": 125,
+        "speed": 17.69,
+        "direction": "Left"
+      },
+      {
+        "time": "67.56",
+        "x": 524,
+        "y": 142,
+        "speed": 19.72,
+        "direction": "Down"
+      },
+      {
+        "time": "67.76",
+        "x": 525,
+        "y": 151,
+        "speed": 9.06,
+        "direction": "Down"
+      },
+      {
+        "time": "67.96",
+        "x": 528,
+        "y": 155,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "68.16",
+        "x": 515,
+        "y": 182,
+        "speed": 29.97,
+        "direction": "Down"
+      },
+      {
+        "time": "68.36",
+        "x": 525,
+        "y": 206,
+        "speed": 26.0,
+        "direction": "Down"
+      },
+      {
+        "time": "68.56",
+        "x": 525,
+        "y": 216,
+        "speed": 10.0,
+        "direction": "Down"
+      },
+      {
+        "time": "68.76",
+        "x": 524,
+        "y": 226,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "68.96",
+        "x": 524,
+        "y": 236,
+        "speed": 10.0,
+        "direction": "Down"
+      },
+      {
+        "time": "69.16",
+        "x": 523,
+        "y": 246,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "69.36",
+        "x": 522,
+        "y": 256,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "69.56",
+        "x": 522,
+        "y": 266,
+        "speed": 10.0,
+        "direction": "Down"
+      },
+      {
+        "time": "69.76",
+        "x": 521,
+        "y": 276,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "69.96",
+        "x": 521,
+        "y": 285,
+        "speed": 9.0,
+        "direction": "Down"
+      },
+      {
+        "time": "70.16",
+        "x": 520,
+        "y": 296,
+        "speed": 11.05,
+        "direction": "Down"
+      },
+      {
+        "time": "70.36",
+        "x": 519,
+        "y": 305,
+        "speed": 9.06,
+        "direction": "Down"
+      },
+      {
+        "time": "70.56",
+        "x": 519,
+        "y": 315,
+        "speed": 10.0,
+        "direction": "Down"
+      },
+      {
+        "time": "70.76",
+        "x": 518,
+        "y": 325,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "70.96",
+        "x": 518,
+        "y": 335,
+        "speed": 10.0,
+        "direction": "Down"
+      },
+      {
+        "time": "71.16",
+        "x": 517,
+        "y": 345,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "71.36",
+        "x": 517,
+        "y": 355,
+        "speed": 10.0,
+        "direction": "Down"
+      },
+      {
+        "time": "71.56",
+        "x": 516,
+        "y": 365,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "71.76",
+        "x": 516,
+        "y": 375,
+        "speed": 10.0,
+        "direction": "Down"
+      },
+      {
+        "time": "71.96",
+        "x": 515,
+        "y": 385,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "72.16",
+        "x": 514,
+        "y": 395,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "72.36",
+        "x": 514,
+        "y": 405,
+        "speed": 10.0,
+        "direction": "Down"
+      },
+      {
+        "time": "72.56",
+        "x": 513,
+        "y": 415,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "72.76",
+        "x": 512,
+        "y": 424,
+        "speed": 9.06,
+        "direction": "Down"
+      },
+      {
+        "time": "72.96",
+        "x": 512,
+        "y": 435,
+        "speed": 11.0,
+        "direction": "Down"
+      },
+      {
+        "time": "73.16",
+        "x": 511,
+        "y": 444,
+        "speed": 9.06,
+        "direction": "Down"
+      },
+      {
+        "time": "73.36",
+        "x": 510,
+        "y": 454,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "73.56",
+        "x": 510,
+        "y": 464,
+        "speed": 10.0,
+        "direction": "Down"
+      },
+      {
+        "time": "73.76",
+        "x": 509,
+        "y": 474,
+        "speed": 10.05,
+        "direction": "Down"
+      },
+      {
+        "time": "73.96",
+        "x": 509,
+        "y": 484,
+        "speed": 10.0,
+        "direction": "Down"
+      }
+    ]
+  },
+  "gg": {
+    "emotion_readings": [
+      {
+        "time": "69.36",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "69.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "69.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "69.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "70.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "70.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "70.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "70.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "70.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "71.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "72.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "73.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "73.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "73.56",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "69.36",
+        "x": 585,
+        "y": 134,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "69.56",
+        "x": 584,
+        "y": 141,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "69.76",
+        "x": 583,
+        "y": 147,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "69.96",
+        "x": 583,
+        "y": 153,
+        "speed": 6.0,
+        "direction": "Down"
+      },
+      {
+        "time": "70.16",
+        "x": 582,
+        "y": 160,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "70.36",
+        "x": 581,
+        "y": 166,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "70.56",
+        "x": 580,
+        "y": 172,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "70.76",
+        "x": 579,
+        "y": 179,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "70.96",
+        "x": 578,
+        "y": 185,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "71.16",
+        "x": 577,
+        "y": 191,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "71.36",
+        "x": 576,
+        "y": 198,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "71.56",
+        "x": 575,
+        "y": 204,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "71.76",
+        "x": 574,
+        "y": 210,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "71.96",
+        "x": 573,
+        "y": 217,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "72.16",
+        "x": 572,
+        "y": 223,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "72.36",
+        "x": 571,
+        "y": 229,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "72.56",
+        "x": 570,
+        "y": 236,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "72.76",
+        "x": 569,
+        "y": 242,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "72.96",
+        "x": 569,
+        "y": 249,
+        "speed": 7.0,
+        "direction": "Down"
+      },
+      {
+        "time": "73.16",
+        "x": 568,
+        "y": 255,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "73.36",
+        "x": 567,
+        "y": 261,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "73.56",
+        "x": 566,
+        "y": 268,
+        "speed": 7.07,
+        "direction": "Down"
+      }
+    ]
+  },
+  "hh": {
+    "emotion_readings": [
+      {
+        "time": "77.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "77.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "77.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "77.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "78.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "78.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "78.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "78.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "78.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "79.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "79.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "79.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "79.76",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "77.36",
+        "x": 525,
+        "y": 315,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "77.56",
+        "x": 526,
+        "y": 322,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "77.76",
+        "x": 527,
+        "y": 328,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "77.96",
+        "x": 527,
+        "y": 334,
+        "speed": 6.0,
+        "direction": "Down"
+      },
+      {
+        "time": "78.16",
+        "x": 528,
+        "y": 341,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "78.36",
+        "x": 529,
+        "y": 347,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "78.56",
+        "x": 530,
+        "y": 353,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "78.76",
+        "x": 530,
+        "y": 360,
+        "speed": 7.0,
+        "direction": "Down"
+      },
+      {
+        "time": "78.96",
+        "x": 531,
+        "y": 366,
+        "speed": 6.08,
+        "direction": "Down"
+      },
+      {
+        "time": "79.16",
+        "x": 531,
+        "y": 372,
+        "speed": 6.0,
+        "direction": "Down"
+      },
+      {
+        "time": "79.36",
+        "x": 532,
+        "y": 379,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "79.56",
+        "x": 532,
+        "y": 385,
+        "speed": 6.0,
+        "direction": "Down"
+      },
+      {
+        "time": "79.76",
+        "x": 533,
+        "y": 391,
+        "speed": 6.08,
+        "direction": "Down"
+      }
+    ]
+  },
+  "jj": {
+    "emotion_readings": [
+      {
+        "time": "102.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "102.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "102.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "103.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "103.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "103.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "103.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "103.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "104.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "104.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "104.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "104.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "104.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "105.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "105.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "105.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "105.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "105.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "106.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "106.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "106.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "106.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "106.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "107.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "107.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "107.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "107.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "107.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "108.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "108.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "108.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "108.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "108.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "109.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "109.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.16",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "102.56",
+        "x": 160,
+        "y": 114,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "102.76",
+        "x": 158,
+        "y": 117,
+        "speed": 3.61,
+        "direction": "Down"
+      },
+      {
+        "time": "102.96",
+        "x": 155,
+        "y": 120,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "103.16",
+        "x": 153,
+        "y": 124,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "103.36",
+        "x": 150,
+        "y": 127,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "103.56",
+        "x": 148,
+        "y": 131,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "103.76",
+        "x": 145,
+        "y": 134,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "103.96",
+        "x": 142,
+        "y": 137,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "104.16",
+        "x": 140,
+        "y": 141,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "104.36",
+        "x": 137,
+        "y": 144,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "104.56",
+        "x": 135,
+        "y": 147,
+        "speed": 3.61,
+        "direction": "Down"
+      },
+      {
+        "time": "104.76",
+        "x": 133,
+        "y": 150,
+        "speed": 3.61,
+        "direction": "Down"
+      },
+      {
+        "time": "104.96",
+        "x": 130,
+        "y": 154,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "105.16",
+        "x": 128,
+        "y": 157,
+        "speed": 3.61,
+        "direction": "Down"
+      },
+      {
+        "time": "105.36",
+        "x": 125,
+        "y": 161,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "105.56",
+        "x": 123,
+        "y": 164,
+        "speed": 3.61,
+        "direction": "Down"
+      },
+      {
+        "time": "105.76",
+        "x": 120,
+        "y": 167,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "105.96",
+        "x": 118,
+        "y": 170,
+        "speed": 3.61,
+        "direction": "Down"
+      },
+      {
+        "time": "106.16",
+        "x": 182,
+        "y": 200,
+        "speed": 70.68,
+        "direction": "Right"
+      },
+      {
+        "time": "106.36",
+        "x": 183,
+        "y": 205,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "106.56",
+        "x": 184,
+        "y": 210,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "106.76",
+        "x": 185,
+        "y": 215,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "106.96",
+        "x": 186,
+        "y": 220,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "107.16",
+        "x": 187,
+        "y": 224,
+        "speed": 4.12,
+        "direction": "Down"
+      },
+      {
+        "time": "107.36",
+        "x": 188,
+        "y": 229,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "107.56",
+        "x": 190,
+        "y": 234,
+        "speed": 5.39,
+        "direction": "Down"
+      },
+      {
+        "time": "107.76",
+        "x": 191,
+        "y": 239,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "107.96",
+        "x": 192,
+        "y": 244,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "108.16",
+        "x": 193,
+        "y": 248,
+        "speed": 4.12,
+        "direction": "Down"
+      },
+      {
+        "time": "108.36",
+        "x": 194,
+        "y": 253,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "108.56",
+        "x": 195,
+        "y": 258,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "108.76",
+        "x": 196,
+        "y": 263,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "108.96",
+        "x": 197,
+        "y": 268,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "109.16",
+        "x": 198,
+        "y": 272,
+        "speed": 4.12,
+        "direction": "Down"
+      },
+      {
+        "time": "109.36",
+        "x": 199,
+        "y": 277,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "109.56",
+        "x": 201,
+        "y": 282,
+        "speed": 5.39,
+        "direction": "Down"
+      },
+      {
+        "time": "109.76",
+        "x": 202,
+        "y": 287,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "109.96",
+        "x": 203,
+        "y": 292,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "110.16",
+        "x": 204,
+        "y": 296,
+        "speed": 4.12,
+        "direction": "Down"
+      },
+      {
+        "time": "110.36",
+        "x": 205,
+        "y": 301,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "110.56",
+        "x": 206,
+        "y": 306,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "110.76",
+        "x": 207,
+        "y": 311,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "110.96",
+        "x": 208,
+        "y": 316,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "111.16",
+        "x": 209,
+        "y": 320,
+        "speed": 4.12,
+        "direction": "Down"
+      },
+      {
+        "time": "111.36",
+        "x": 210,
+        "y": 325,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "111.56",
+        "x": 212,
+        "y": 330,
+        "speed": 5.39,
+        "direction": "Down"
+      },
+      {
+        "time": "111.76",
+        "x": 213,
+        "y": 335,
+        "speed": 5.1,
+        "direction": "Down"
+      },
+      {
+        "time": "111.96",
+        "x": 214,
+        "y": 339,
+        "speed": 4.12,
+        "direction": "Down"
+      },
+      {
+        "time": "112.16",
+        "x": 215,
+        "y": 344,
+        "speed": 5.1,
+        "direction": "Down"
+      }
+    ]
+  },
+  "kk": {
+    "emotion_readings": [
+      {
+        "time": "105.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "105.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "106.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "106.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "106.56",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "106.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "106.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "107.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "107.36",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "107.56",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "107.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "107.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "108.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "108.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "108.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "108.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "108.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "113.16",
+        "emotion": "Happiness"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "105.76",
+        "x": 466,
+        "y": 96,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "105.96",
+        "x": 467,
+        "y": 99,
+        "speed": 3.16,
+        "direction": "Down"
+      },
+      {
+        "time": "106.16",
+        "x": 467,
+        "y": 88,
+        "speed": 11.0,
+        "direction": "Up"
+      },
+      {
+        "time": "106.36",
+        "x": 472,
+        "y": 85,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "106.56",
+        "x": 476,
+        "y": 87,
+        "speed": 4.47,
+        "direction": "Right"
+      },
+      {
+        "time": "106.76",
+        "x": 485,
+        "y": 91,
+        "speed": 9.85,
+        "direction": "Right"
+      },
+      {
+        "time": "106.96",
+        "x": 488,
+        "y": 91,
+        "speed": 3.0,
+        "direction": "Right"
+      },
+      {
+        "time": "107.16",
+        "x": 499,
+        "y": 90,
+        "speed": 11.05,
+        "direction": "Right"
+      },
+      {
+        "time": "107.36",
+        "x": 503,
+        "y": 89,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "107.56",
+        "x": 507,
+        "y": 89,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "107.76",
+        "x": 512,
+        "y": 89,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "107.96",
+        "x": 516,
+        "y": 89,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "108.16",
+        "x": 520,
+        "y": 88,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "108.36",
+        "x": 525,
+        "y": 88,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "108.56",
+        "x": 529,
+        "y": 88,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "108.76",
+        "x": 533,
+        "y": 88,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "108.96",
+        "x": 538,
+        "y": 87,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "109.16",
+        "x": 542,
+        "y": 87,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "109.36",
+        "x": 546,
+        "y": 87,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "109.56",
+        "x": 550,
+        "y": 87,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "109.76",
+        "x": 555,
+        "y": 86,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "109.96",
+        "x": 559,
+        "y": 86,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "110.16",
+        "x": 563,
+        "y": 86,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "110.36",
+        "x": 568,
+        "y": 86,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "110.56",
+        "x": 572,
+        "y": 86,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "110.76",
+        "x": 576,
+        "y": 85,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "110.96",
+        "x": 581,
+        "y": 85,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "111.16",
+        "x": 585,
+        "y": 85,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "111.36",
+        "x": 589,
+        "y": 85,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "111.56",
+        "x": 593,
+        "y": 84,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "111.76",
+        "x": 598,
+        "y": 84,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "111.96",
+        "x": 602,
+        "y": 84,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "112.16",
+        "x": 606,
+        "y": 84,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "112.36",
+        "x": 611,
+        "y": 84,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "112.56",
+        "x": 615,
+        "y": 83,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "112.76",
+        "x": 619,
+        "y": 83,
+        "speed": 4.0,
+        "direction": "Right"
+      },
+      {
+        "time": "112.96",
+        "x": 624,
+        "y": 83,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "113.16",
+        "x": 628,
+        "y": 83,
+        "speed": 4.0,
+        "direction": "Right"
+      }
+    ]
+  },
+  "l": {
+    "emotion_readings": [
+      {
+        "time": "129.96",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "130.16",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "130.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "130.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "130.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "130.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "131.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "131.36",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "131.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "131.76",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "131.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "132.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "132.36",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "132.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "132.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "132.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "133.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "133.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "133.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "134.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "135.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "135.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "138.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "138.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "142.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "142.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "142.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "142.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "142.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "143.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "143.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "143.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "143.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "143.96",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "129.96",
+        "x": 321,
+        "y": 96,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "130.16",
+        "x": 322,
+        "y": 96,
+        "speed": 1.0,
+        "direction": "Right"
+      },
+      {
+        "time": "130.36",
+        "x": 315,
+        "y": 94,
+        "speed": 7.28,
+        "direction": "Left"
+      },
+      {
+        "time": "130.56",
+        "x": 309,
+        "y": 93,
+        "speed": 6.08,
+        "direction": "Left"
+      },
+      {
+        "time": "130.76",
+        "x": 305,
+        "y": 95,
+        "speed": 4.47,
+        "direction": "Left"
+      },
+      {
+        "time": "130.96",
+        "x": 303,
+        "y": 95,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "131.16",
+        "x": 301,
+        "y": 96,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "131.36",
+        "x": 304,
+        "y": 96,
+        "speed": 3.0,
+        "direction": "Right"
+      },
+      {
+        "time": "131.56",
+        "x": 304,
+        "y": 99,
+        "speed": 3.0,
+        "direction": "Down"
+      },
+      {
+        "time": "131.76",
+        "x": 305,
+        "y": 98,
+        "speed": 1.41,
+        "direction": "Up"
+      },
+      {
+        "time": "131.96",
+        "x": 303,
+        "y": 98,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "132.16",
+        "x": 300,
+        "y": 99,
+        "speed": 3.16,
+        "direction": "Left"
+      },
+      {
+        "time": "132.36",
+        "x": 301,
+        "y": 100,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "132.56",
+        "x": 303,
+        "y": 100,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "132.76",
+        "x": 307,
+        "y": 101,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "132.96",
+        "x": 312,
+        "y": 104,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "133.16",
+        "x": 323,
+        "y": 105,
+        "speed": 11.05,
+        "direction": "Right"
+      },
+      {
+        "time": "133.36",
+        "x": 331,
+        "y": 115,
+        "speed": 12.81,
+        "direction": "Down"
+      },
+      {
+        "time": "133.56",
+        "x": 333,
+        "y": 132,
+        "speed": 17.12,
+        "direction": "Down"
+      },
+      {
+        "time": "133.76",
+        "x": 336,
+        "y": 137,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "133.96",
+        "x": 339,
+        "y": 141,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "134.16",
+        "x": 341,
+        "y": 145,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "134.36",
+        "x": 344,
+        "y": 148,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "134.56",
+        "x": 346,
+        "y": 152,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "134.76",
+        "x": 349,
+        "y": 156,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "134.96",
+        "x": 351,
+        "y": 159,
+        "speed": 3.61,
+        "direction": "Down"
+      },
+      {
+        "time": "135.16",
+        "x": 354,
+        "y": 163,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "135.36",
+        "x": 356,
+        "y": 167,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "135.56",
+        "x": 359,
+        "y": 170,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "135.76",
+        "x": 361,
+        "y": 174,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "135.96",
+        "x": 364,
+        "y": 178,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "136.16",
+        "x": 366,
+        "y": 182,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "136.36",
+        "x": 368,
+        "y": 186,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "136.56",
+        "x": 371,
+        "y": 189,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "136.76",
+        "x": 373,
+        "y": 193,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "136.96",
+        "x": 376,
+        "y": 197,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "137.16",
+        "x": 378,
+        "y": 201,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "137.36",
+        "x": 381,
+        "y": 204,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "137.56",
+        "x": 383,
+        "y": 208,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "137.76",
+        "x": 386,
+        "y": 212,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "137.96",
+        "x": 388,
+        "y": 216,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "138.16",
+        "x": 391,
+        "y": 219,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "138.36",
+        "x": 393,
+        "y": 223,
+        "speed": 4.47,
+        "direction": "Down"
+      },
+      {
+        "time": "138.56",
+        "x": 396,
+        "y": 227,
+        "speed": 5.0,
+        "direction": "Down"
+      },
+      {
+        "time": "138.76",
+        "x": 398,
+        "y": 230,
+        "speed": 3.61,
+        "direction": "Down"
+      },
+      {
+        "time": "138.96",
+        "x": 449,
+        "y": 258,
+        "speed": 58.18,
+        "direction": "Right"
+      },
+      {
+        "time": "139.16",
+        "x": 438,
+        "y": 268,
+        "speed": 14.87,
+        "direction": "Left"
+      },
+      {
+        "time": "139.36",
+        "x": 441,
+        "y": 273,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "139.56",
+        "x": 444,
+        "y": 279,
+        "speed": 6.71,
+        "direction": "Down"
+      },
+      {
+        "time": "139.76",
+        "x": 447,
+        "y": 284,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "139.96",
+        "x": 449,
+        "y": 289,
+        "speed": 5.39,
+        "direction": "Down"
+      },
+      {
+        "time": "140.16",
+        "x": 452,
+        "y": 295,
+        "speed": 6.71,
+        "direction": "Down"
+      },
+      {
+        "time": "140.36",
+        "x": 455,
+        "y": 300,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "140.56",
+        "x": 458,
+        "y": 305,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "140.76",
+        "x": 460,
+        "y": 311,
+        "speed": 6.32,
+        "direction": "Down"
+      },
+      {
+        "time": "140.96",
+        "x": 463,
+        "y": 316,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "141.16",
+        "x": 466,
+        "y": 321,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "141.36",
+        "x": 468,
+        "y": 326,
+        "speed": 5.39,
+        "direction": "Down"
+      },
+      {
+        "time": "141.56",
+        "x": 471,
+        "y": 332,
+        "speed": 6.71,
+        "direction": "Down"
+      },
+      {
+        "time": "141.76",
+        "x": 474,
+        "y": 337,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "141.96",
+        "x": 477,
+        "y": 342,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "142.16",
+        "x": 479,
+        "y": 347,
+        "speed": 5.39,
+        "direction": "Down"
+      },
+      {
+        "time": "142.36",
+        "x": 482,
+        "y": 353,
+        "speed": 6.71,
+        "direction": "Down"
+      },
+      {
+        "time": "142.56",
+        "x": 485,
+        "y": 358,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "142.76",
+        "x": 487,
+        "y": 363,
+        "speed": 5.39,
+        "direction": "Down"
+      },
+      {
+        "time": "142.96",
+        "x": 490,
+        "y": 368,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "143.16",
+        "x": 493,
+        "y": 374,
+        "speed": 6.71,
+        "direction": "Down"
+      },
+      {
+        "time": "143.36",
+        "x": 496,
+        "y": 379,
+        "speed": 5.83,
+        "direction": "Down"
+      },
+      {
+        "time": "143.56",
+        "x": 498,
+        "y": 384,
+        "speed": 5.39,
+        "direction": "Down"
+      },
+      {
+        "time": "143.76",
+        "x": 501,
+        "y": 390,
+        "speed": 6.71,
+        "direction": "Down"
+      },
+      {
+        "time": "143.96",
+        "x": 504,
+        "y": 395,
+        "speed": 5.83,
+        "direction": "Down"
+      }
+    ]
+  },
+  "f": {
+    "emotion_readings": [
+      {
+        "time": "106.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "106.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "106.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "106.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "107.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "107.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "107.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "107.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "107.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "108.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "108.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "108.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "108.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "108.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "109.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.56",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "106.36",
+        "x": 302,
+        "y": 156,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "106.56",
+        "x": 310,
+        "y": 157,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "106.76",
+        "x": 316,
+        "y": 161,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "106.96",
+        "x": 322,
+        "y": 166,
+        "speed": 7.81,
+        "direction": "Right"
+      },
+      {
+        "time": "107.16",
+        "x": 328,
+        "y": 169,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "107.36",
+        "x": 334,
+        "y": 174,
+        "speed": 7.81,
+        "direction": "Right"
+      },
+      {
+        "time": "107.56",
+        "x": 341,
+        "y": 177,
+        "speed": 7.62,
+        "direction": "Right"
+      },
+      {
+        "time": "107.76",
+        "x": 347,
+        "y": 182,
+        "speed": 7.81,
+        "direction": "Right"
+      },
+      {
+        "time": "107.96",
+        "x": 353,
+        "y": 186,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "108.16",
+        "x": 359,
+        "y": 190,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "108.36",
+        "x": 365,
+        "y": 194,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "108.56",
+        "x": 372,
+        "y": 198,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "108.76",
+        "x": 378,
+        "y": 202,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "108.96",
+        "x": 384,
+        "y": 206,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "109.16",
+        "x": 390,
+        "y": 210,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "109.36",
+        "x": 397,
+        "y": 214,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "109.56",
+        "x": 403,
+        "y": 218,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "109.76",
+        "x": 409,
+        "y": 222,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "109.96",
+        "x": 415,
+        "y": 227,
+        "speed": 7.81,
+        "direction": "Right"
+      },
+      {
+        "time": "110.16",
+        "x": 421,
+        "y": 231,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "110.36",
+        "x": 428,
+        "y": 235,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "110.56",
+        "x": 434,
+        "y": 239,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "110.76",
+        "x": 440,
+        "y": 243,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "110.96",
+        "x": 446,
+        "y": 247,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "111.16",
+        "x": 452,
+        "y": 251,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "111.36",
+        "x": 459,
+        "y": 255,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "111.56",
+        "x": 465,
+        "y": 259,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "111.76",
+        "x": 471,
+        "y": 263,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "111.96",
+        "x": 477,
+        "y": 267,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "112.16",
+        "x": 483,
+        "y": 271,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "112.36",
+        "x": 490,
+        "y": 276,
+        "speed": 8.6,
+        "direction": "Right"
+      },
+      {
+        "time": "112.56",
+        "x": 496,
+        "y": 279,
+        "speed": 6.71,
+        "direction": "Right"
+      }
+    ]
+  },
+  "g": {
+    "emotion_readings": [
+      {
+        "time": "110.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "110.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "110.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "110.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "111.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "111.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "112.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "113.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "113.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "113.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "113.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "113.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "114.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "114.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "114.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "114.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "114.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "115.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "115.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "115.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "115.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "115.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "116.16",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "110.16",
+        "x": 399,
+        "y": 128,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "110.36",
+        "x": 397,
+        "y": 136,
+        "speed": 8.25,
+        "direction": "Down"
+      },
+      {
+        "time": "110.56",
+        "x": 395,
+        "y": 143,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "110.76",
+        "x": 394,
+        "y": 150,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "110.96",
+        "x": 392,
+        "y": 157,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "111.16",
+        "x": 390,
+        "y": 165,
+        "speed": 8.25,
+        "direction": "Down"
+      },
+      {
+        "time": "111.36",
+        "x": 388,
+        "y": 172,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "111.56",
+        "x": 386,
+        "y": 179,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "111.76",
+        "x": 384,
+        "y": 186,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "111.96",
+        "x": 382,
+        "y": 194,
+        "speed": 8.25,
+        "direction": "Down"
+      },
+      {
+        "time": "112.16",
+        "x": 380,
+        "y": 201,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "112.36",
+        "x": 378,
+        "y": 209,
+        "speed": 8.25,
+        "direction": "Down"
+      },
+      {
+        "time": "112.56",
+        "x": 376,
+        "y": 216,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "112.76",
+        "x": 374,
+        "y": 223,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "112.96",
+        "x": 372,
+        "y": 230,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "113.16",
+        "x": 370,
+        "y": 238,
+        "speed": 8.25,
+        "direction": "Down"
+      },
+      {
+        "time": "113.36",
+        "x": 369,
+        "y": 245,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "113.56",
+        "x": 366,
+        "y": 252,
+        "speed": 7.62,
+        "direction": "Down"
+      },
+      {
+        "time": "113.76",
+        "x": 364,
+        "y": 259,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "113.96",
+        "x": 362,
+        "y": 267,
+        "speed": 8.25,
+        "direction": "Down"
+      },
+      {
+        "time": "114.16",
+        "x": 361,
+        "y": 274,
+        "speed": 7.07,
+        "direction": "Down"
+      },
+      {
+        "time": "114.36",
+        "x": 359,
+        "y": 281,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "114.56",
+        "x": 357,
+        "y": 288,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "114.76",
+        "x": 355,
+        "y": 296,
+        "speed": 8.25,
+        "direction": "Down"
+      },
+      {
+        "time": "114.96",
+        "x": 353,
+        "y": 303,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "115.16",
+        "x": 351,
+        "y": 310,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "115.36",
+        "x": 349,
+        "y": 317,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "115.56",
+        "x": 347,
+        "y": 325,
+        "speed": 8.25,
+        "direction": "Down"
+      },
+      {
+        "time": "115.76",
+        "x": 345,
+        "y": 332,
+        "speed": 7.28,
+        "direction": "Down"
+      },
+      {
+        "time": "115.96",
+        "x": 343,
+        "y": 340,
+        "speed": 8.25,
+        "direction": "Down"
+      },
+      {
+        "time": "116.16",
+        "x": 341,
+        "y": 347,
+        "speed": 7.28,
+        "direction": "Down"
+      }
+    ]
+  },
+  "h": {
+    "emotion_readings": [
+      {
+        "time": "124.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "124.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "124.96",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "125.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "125.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "125.56",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "125.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "125.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "126.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "126.36",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "126.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "126.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "126.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "127.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "127.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "127.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "127.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "127.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "128.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "128.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "128.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "128.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "130.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "130.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "130.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "131.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "131.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "131.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "131.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "131.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "132.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "132.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "132.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "132.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "132.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.96",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "124.56",
+        "x": 247,
+        "y": 172,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "124.76",
+        "x": 247,
+        "y": 173,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "124.96",
+        "x": 246,
+        "y": 174,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "125.16",
+        "x": 246,
+        "y": 174,
+        "speed": 0.0,
+        "direction": "Up"
+      },
+      {
+        "time": "125.36",
+        "x": 246,
+        "y": 175,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "125.56",
+        "x": 245,
+        "y": 176,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "125.76",
+        "x": 245,
+        "y": 176,
+        "speed": 0.0,
+        "direction": "Up"
+      },
+      {
+        "time": "125.96",
+        "x": 245,
+        "y": 177,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "126.16",
+        "x": 245,
+        "y": 178,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "126.36",
+        "x": 244,
+        "y": 178,
+        "speed": 1.0,
+        "direction": "Left"
+      },
+      {
+        "time": "126.56",
+        "x": 244,
+        "y": 179,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "126.76",
+        "x": 243,
+        "y": 180,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "126.96",
+        "x": 243,
+        "y": 180,
+        "speed": 0.0,
+        "direction": "Up"
+      },
+      {
+        "time": "127.16",
+        "x": 243,
+        "y": 181,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "127.36",
+        "x": 242,
+        "y": 182,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "127.56",
+        "x": 242,
+        "y": 182,
+        "speed": 0.0,
+        "direction": "Up"
+      },
+      {
+        "time": "127.76",
+        "x": 242,
+        "y": 183,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "127.96",
+        "x": 242,
+        "y": 183,
+        "speed": 0.0,
+        "direction": "Up"
+      },
+      {
+        "time": "128.16",
+        "x": 241,
+        "y": 184,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "128.36",
+        "x": 241,
+        "y": 185,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "128.56",
+        "x": 240,
+        "y": 185,
+        "speed": 1.0,
+        "direction": "Left"
+      },
+      {
+        "time": "128.76",
+        "x": 240,
+        "y": 186,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "130.56",
+        "x": 415,
+        "y": -37,
+        "speed": 283.47,
+        "direction": "Up"
+      },
+      {
+        "time": "130.76",
+        "x": 420,
+        "y": -44,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "130.96",
+        "x": 425,
+        "y": -51,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "131.16",
+        "x": 431,
+        "y": -58,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "131.36",
+        "x": 437,
+        "y": -65,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "131.56",
+        "x": 442,
+        "y": -72,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "131.76",
+        "x": 448,
+        "y": -79,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "131.96",
+        "x": 453,
+        "y": -86,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "132.16",
+        "x": 459,
+        "y": -93,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "132.36",
+        "x": 465,
+        "y": -100,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "132.56",
+        "x": 470,
+        "y": -107,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "132.76",
+        "x": 475,
+        "y": -114,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "132.96",
+        "x": 481,
+        "y": -121,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "133.16",
+        "x": 487,
+        "y": -128,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "133.36",
+        "x": 492,
+        "y": -135,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "133.56",
+        "x": 498,
+        "y": -142,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "133.76",
+        "x": 503,
+        "y": -149,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "133.96",
+        "x": 509,
+        "y": -156,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "134.16",
+        "x": 515,
+        "y": -163,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "134.36",
+        "x": 520,
+        "y": -170,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "134.56",
+        "x": 525,
+        "y": -177,
+        "speed": 8.6,
+        "direction": "Up"
+      },
+      {
+        "time": "134.76",
+        "x": 531,
+        "y": -184,
+        "speed": 9.22,
+        "direction": "Up"
+      },
+      {
+        "time": "134.96",
+        "x": 537,
+        "y": -191,
+        "speed": 9.22,
+        "direction": "Up"
+      }
+    ]
+  },
+  "j": {
+    "emotion_readings": [
+      {
+        "time": "125.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "125.36",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "125.56",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "125.76",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "125.96",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "126.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "126.36",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "126.56",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "126.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "126.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "127.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "127.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "127.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "127.76",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "127.96",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "128.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "128.36",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "128.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "128.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "128.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "129.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "129.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "129.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "129.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "129.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "130.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "130.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "130.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "130.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "130.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "131.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "131.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "131.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "131.76",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "131.96",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "132.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "132.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "132.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "132.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "132.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "133.16",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "133.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "133.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "134.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "135.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "135.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "135.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "136.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.96",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "125.16",
+        "x": 269,
+        "y": 122,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "125.36",
+        "x": 278,
+        "y": 106,
+        "speed": 18.36,
+        "direction": "Up"
+      },
+      {
+        "time": "125.56",
+        "x": 294,
+        "y": 117,
+        "speed": 19.42,
+        "direction": "Right"
+      },
+      {
+        "time": "125.76",
+        "x": 308,
+        "y": 110,
+        "speed": 15.65,
+        "direction": "Right"
+      },
+      {
+        "time": "125.96",
+        "x": 322,
+        "y": 101,
+        "speed": 16.64,
+        "direction": "Right"
+      },
+      {
+        "time": "126.16",
+        "x": 333,
+        "y": 117,
+        "speed": 19.42,
+        "direction": "Down"
+      },
+      {
+        "time": "126.36",
+        "x": 329,
+        "y": 111,
+        "speed": 7.21,
+        "direction": "Up"
+      },
+      {
+        "time": "126.56",
+        "x": 330,
+        "y": 110,
+        "speed": 1.41,
+        "direction": "Up"
+      },
+      {
+        "time": "126.76",
+        "x": 329,
+        "y": 126,
+        "speed": 16.03,
+        "direction": "Down"
+      },
+      {
+        "time": "126.96",
+        "x": 334,
+        "y": 126,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "127.16",
+        "x": 339,
+        "y": 126,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "127.36",
+        "x": 329,
+        "y": 134,
+        "speed": 12.81,
+        "direction": "Left"
+      },
+      {
+        "time": "127.56",
+        "x": 317,
+        "y": 128,
+        "speed": 13.42,
+        "direction": "Left"
+      },
+      {
+        "time": "127.76",
+        "x": 321,
+        "y": 125,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "127.96",
+        "x": 323,
+        "y": 124,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "128.16",
+        "x": 324,
+        "y": 124,
+        "speed": 1.0,
+        "direction": "Right"
+      },
+      {
+        "time": "128.36",
+        "x": 326,
+        "y": 124,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "128.56",
+        "x": 328,
+        "y": 124,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "128.76",
+        "x": 330,
+        "y": 124,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "128.96",
+        "x": 331,
+        "y": 124,
+        "speed": 1.0,
+        "direction": "Right"
+      },
+      {
+        "time": "129.16",
+        "x": 333,
+        "y": 124,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "129.36",
+        "x": 335,
+        "y": 124,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "129.56",
+        "x": 336,
+        "y": 124,
+        "speed": 1.0,
+        "direction": "Right"
+      },
+      {
+        "time": "129.76",
+        "x": 338,
+        "y": 124,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "129.96",
+        "x": 340,
+        "y": 123,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "130.16",
+        "x": 342,
+        "y": 123,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "130.36",
+        "x": 343,
+        "y": 123,
+        "speed": 1.0,
+        "direction": "Right"
+      },
+      {
+        "time": "130.56",
+        "x": 345,
+        "y": 123,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "130.76",
+        "x": 347,
+        "y": 123,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "130.96",
+        "x": 349,
+        "y": 123,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "131.16",
+        "x": 351,
+        "y": 123,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "131.36",
+        "x": 352,
+        "y": 123,
+        "speed": 1.0,
+        "direction": "Right"
+      },
+      {
+        "time": "131.56",
+        "x": 354,
+        "y": 123,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "131.76",
+        "x": 356,
+        "y": 122,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "131.96",
+        "x": 357,
+        "y": 122,
+        "speed": 1.0,
+        "direction": "Right"
+      },
+      {
+        "time": "132.16",
+        "x": 359,
+        "y": 122,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "132.36",
+        "x": 361,
+        "y": 122,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "132.56",
+        "x": 362,
+        "y": 122,
+        "speed": 1.0,
+        "direction": "Right"
+      },
+      {
+        "time": "132.76",
+        "x": 364,
+        "y": 122,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "132.96",
+        "x": 366,
+        "y": 122,
+        "speed": 2.0,
+        "direction": "Right"
+      },
+      {
+        "time": "133.16",
+        "x": 368,
+        "y": 121,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "133.36",
+        "x": 541,
+        "y": 215,
+        "speed": 196.89,
+        "direction": "Right"
+      },
+      {
+        "time": "133.56",
+        "x": 529,
+        "y": 216,
+        "speed": 12.04,
+        "direction": "Left"
+      },
+      {
+        "time": "133.76",
+        "x": 534,
+        "y": 219,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "133.96",
+        "x": 540,
+        "y": 222,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "134.16",
+        "x": 545,
+        "y": 225,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "134.36",
+        "x": 551,
+        "y": 228,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "134.56",
+        "x": 556,
+        "y": 231,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "134.76",
+        "x": 561,
+        "y": 234,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "134.96",
+        "x": 567,
+        "y": 237,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "135.16",
+        "x": 572,
+        "y": 240,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "135.36",
+        "x": 577,
+        "y": 243,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "135.56",
+        "x": 583,
+        "y": 247,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "135.76",
+        "x": 589,
+        "y": 250,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "135.96",
+        "x": 594,
+        "y": 253,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "136.16",
+        "x": 599,
+        "y": 256,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "136.36",
+        "x": 605,
+        "y": 259,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "136.56",
+        "x": 610,
+        "y": 262,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "136.76",
+        "x": 615,
+        "y": 265,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "136.96",
+        "x": 621,
+        "y": 268,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "137.16",
+        "x": 626,
+        "y": 271,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "137.36",
+        "x": 632,
+        "y": 274,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "137.56",
+        "x": 637,
+        "y": 277,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "137.76",
+        "x": 642,
+        "y": 281,
+        "speed": 6.4,
+        "direction": "Right"
+      },
+      {
+        "time": "137.96",
+        "x": 648,
+        "y": 284,
+        "speed": 6.71,
+        "direction": "Right"
+      }
+    ]
+  },
+  "k": {
+    "emotion_readings": [
+      {
+        "time": "129.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "129.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "130.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "130.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "130.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "130.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "130.96",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "129.76",
+        "x": 615,
+        "y": 138,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "129.96",
+        "x": 620,
+        "y": 141,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "130.16",
+        "x": 626,
+        "y": 144,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "130.36",
+        "x": 632,
+        "y": 148,
+        "speed": 7.21,
+        "direction": "Right"
+      },
+      {
+        "time": "130.56",
+        "x": 638,
+        "y": 151,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "130.76",
+        "x": 644,
+        "y": 154,
+        "speed": 6.71,
+        "direction": "Right"
+      },
+      {
+        "time": "130.96",
+        "x": 649,
+        "y": 158,
+        "speed": 6.4,
+        "direction": "Right"
+      }
+    ]
+  },
+  "o": {
+    "emotion_readings": [
+      {
+        "time": "131.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "131.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "132.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "132.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "132.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "132.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "132.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "133.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "133.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "133.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "133.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "133.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "134.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "134.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "134.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "135.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "138.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "138.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.16",
+        "emotion": "Happiness"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "131.76",
+        "x": 610,
+        "y": 77,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "131.96",
+        "x": 607,
+        "y": 77,
+        "speed": 3.0,
+        "direction": "Left"
+      },
+      {
+        "time": "132.16",
+        "x": 603,
+        "y": 78,
+        "speed": 4.12,
+        "direction": "Left"
+      },
+      {
+        "time": "132.36",
+        "x": 603,
+        "y": 79,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "132.56",
+        "x": 604,
+        "y": 83,
+        "speed": 4.12,
+        "direction": "Down"
+      },
+      {
+        "time": "132.76",
+        "x": 604,
+        "y": 84,
+        "speed": 1.0,
+        "direction": "Down"
+      },
+      {
+        "time": "132.96",
+        "x": 603,
+        "y": 83,
+        "speed": 1.41,
+        "direction": "Up"
+      },
+      {
+        "time": "133.16",
+        "x": 599,
+        "y": 82,
+        "speed": 4.12,
+        "direction": "Left"
+      },
+      {
+        "time": "133.36",
+        "x": 597,
+        "y": 82,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "133.56",
+        "x": 595,
+        "y": 82,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "133.76",
+        "x": 594,
+        "y": 83,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "133.96",
+        "x": 592,
+        "y": 83,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "134.16",
+        "x": 590,
+        "y": 84,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "134.36",
+        "x": 588,
+        "y": 85,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "134.56",
+        "x": 587,
+        "y": 85,
+        "speed": 1.0,
+        "direction": "Left"
+      },
+      {
+        "time": "134.76",
+        "x": 585,
+        "y": 86,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "134.96",
+        "x": 583,
+        "y": 86,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "135.16",
+        "x": 582,
+        "y": 87,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "135.36",
+        "x": 580,
+        "y": 87,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "135.56",
+        "x": 578,
+        "y": 88,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "135.76",
+        "x": 576,
+        "y": 88,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "135.96",
+        "x": 574,
+        "y": 89,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "136.16",
+        "x": 572,
+        "y": 89,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "136.36",
+        "x": 570,
+        "y": 90,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "136.56",
+        "x": 569,
+        "y": 90,
+        "speed": 1.0,
+        "direction": "Left"
+      },
+      {
+        "time": "136.76",
+        "x": 567,
+        "y": 91,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "136.96",
+        "x": 565,
+        "y": 92,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "137.16",
+        "x": 563,
+        "y": 92,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "137.36",
+        "x": 562,
+        "y": 93,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "137.56",
+        "x": 560,
+        "y": 93,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "137.76",
+        "x": 558,
+        "y": 94,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "137.96",
+        "x": 556,
+        "y": 94,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "138.16",
+        "x": 555,
+        "y": 95,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "138.36",
+        "x": 553,
+        "y": 95,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "138.56",
+        "x": 551,
+        "y": 96,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "138.76",
+        "x": 549,
+        "y": 96,
+        "speed": 2.0,
+        "direction": "Left"
+      },
+      {
+        "time": "138.96",
+        "x": 547,
+        "y": 97,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "139.16",
+        "x": 545,
+        "y": 98,
+        "speed": 2.24,
+        "direction": "Left"
+      }
+    ]
+  },
+  "i": {
+    "emotion_readings": [
+      {
+        "time": "134.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "134.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "134.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "135.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "135.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "136.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "137.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "138.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.36",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "138.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.36",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "139.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "139.96",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "140.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "140.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "140.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "140.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "140.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "141.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "141.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "141.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "141.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "141.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "142.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "142.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "142.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "142.76",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "134.36",
+        "x": 318,
+        "y": 113,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "134.56",
+        "x": 323,
+        "y": 111,
+        "speed": 5.39,
+        "direction": "Right"
+      },
+      {
+        "time": "134.76",
+        "x": 327,
+        "y": 109,
+        "speed": 4.47,
+        "direction": "Right"
+      },
+      {
+        "time": "134.96",
+        "x": 332,
+        "y": 106,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "135.16",
+        "x": 336,
+        "y": 104,
+        "speed": 4.47,
+        "direction": "Right"
+      },
+      {
+        "time": "135.36",
+        "x": 341,
+        "y": 102,
+        "speed": 5.39,
+        "direction": "Right"
+      },
+      {
+        "time": "135.56",
+        "x": 346,
+        "y": 99,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "135.76",
+        "x": 350,
+        "y": 97,
+        "speed": 4.47,
+        "direction": "Right"
+      },
+      {
+        "time": "135.96",
+        "x": 354,
+        "y": 95,
+        "speed": 4.47,
+        "direction": "Right"
+      },
+      {
+        "time": "136.16",
+        "x": 359,
+        "y": 92,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "136.36",
+        "x": 364,
+        "y": 90,
+        "speed": 5.39,
+        "direction": "Right"
+      },
+      {
+        "time": "136.56",
+        "x": 368,
+        "y": 88,
+        "speed": 4.47,
+        "direction": "Right"
+      },
+      {
+        "time": "136.76",
+        "x": 373,
+        "y": 85,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "136.96",
+        "x": 378,
+        "y": 83,
+        "speed": 5.39,
+        "direction": "Right"
+      },
+      {
+        "time": "137.16",
+        "x": 382,
+        "y": 81,
+        "speed": 4.47,
+        "direction": "Right"
+      },
+      {
+        "time": "137.36",
+        "x": 387,
+        "y": 78,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "137.56",
+        "x": 391,
+        "y": 77,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "137.76",
+        "x": 396,
+        "y": 74,
+        "speed": 5.83,
+        "direction": "Right"
+      },
+      {
+        "time": "137.96",
+        "x": 467,
+        "y": 142,
+        "speed": 98.31,
+        "direction": "Right"
+      },
+      {
+        "time": "138.16",
+        "x": 475,
+        "y": 144,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "138.36",
+        "x": 483,
+        "y": 146,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "138.56",
+        "x": 491,
+        "y": 147,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "138.76",
+        "x": 500,
+        "y": 149,
+        "speed": 9.22,
+        "direction": "Right"
+      },
+      {
+        "time": "138.96",
+        "x": 508,
+        "y": 150,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "139.16",
+        "x": 516,
+        "y": 152,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "139.36",
+        "x": 524,
+        "y": 154,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "139.56",
+        "x": 532,
+        "y": 155,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "139.76",
+        "x": 540,
+        "y": 157,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "139.96",
+        "x": 548,
+        "y": 158,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "140.16",
+        "x": 557,
+        "y": 160,
+        "speed": 9.22,
+        "direction": "Right"
+      },
+      {
+        "time": "140.36",
+        "x": 565,
+        "y": 161,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "140.56",
+        "x": 573,
+        "y": 163,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "140.76",
+        "x": 581,
+        "y": 165,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "140.96",
+        "x": 589,
+        "y": 166,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "141.16",
+        "x": 597,
+        "y": 168,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "141.36",
+        "x": 605,
+        "y": 169,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "141.56",
+        "x": 614,
+        "y": 171,
+        "speed": 9.22,
+        "direction": "Right"
+      },
+      {
+        "time": "141.76",
+        "x": 622,
+        "y": 172,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "141.96",
+        "x": 630,
+        "y": 174,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "142.16",
+        "x": 638,
+        "y": 175,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "142.36",
+        "x": 646,
+        "y": 177,
+        "speed": 8.25,
+        "direction": "Right"
+      },
+      {
+        "time": "142.56",
+        "x": 654,
+        "y": 178,
+        "speed": 8.06,
+        "direction": "Right"
+      },
+      {
+        "time": "142.76",
+        "x": 663,
+        "y": 180,
+        "speed": 9.22,
+        "direction": "Right"
+      }
+    ]
+  },
+  "u": {
+    "emotion_readings": [
+      {
+        "time": "135.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "135.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "136.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "136.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "136.96",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "137.16",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "137.36",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "137.56",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "137.76",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "137.96",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "138.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "138.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "138.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "138.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "138.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.56",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "135.36",
+        "x": 171,
+        "y": 330,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "135.56",
+        "x": 169,
+        "y": 332,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "135.76",
+        "x": 167,
+        "y": 334,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "135.96",
+        "x": 165,
+        "y": 335,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "136.16",
+        "x": 163,
+        "y": 336,
+        "speed": 2.24,
+        "direction": "Left"
+      },
+      {
+        "time": "136.36",
+        "x": 160,
+        "y": 338,
+        "speed": 3.61,
+        "direction": "Left"
+      },
+      {
+        "time": "136.56",
+        "x": 117,
+        "y": 315,
+        "speed": 48.76,
+        "direction": "Left"
+      },
+      {
+        "time": "136.76",
+        "x": 110,
+        "y": 313,
+        "speed": 7.28,
+        "direction": "Left"
+      },
+      {
+        "time": "136.96",
+        "x": 112,
+        "y": 302,
+        "speed": 11.18,
+        "direction": "Up"
+      },
+      {
+        "time": "137.16",
+        "x": 115,
+        "y": 305,
+        "speed": 4.24,
+        "direction": "Down"
+      },
+      {
+        "time": "137.36",
+        "x": 132,
+        "y": 291,
+        "speed": 22.02,
+        "direction": "Right"
+      },
+      {
+        "time": "137.56",
+        "x": 154,
+        "y": 278,
+        "speed": 25.55,
+        "direction": "Right"
+      },
+      {
+        "time": "137.76",
+        "x": 171,
+        "y": 268,
+        "speed": 19.72,
+        "direction": "Right"
+      },
+      {
+        "time": "137.96",
+        "x": 187,
+        "y": 255,
+        "speed": 20.62,
+        "direction": "Right"
+      },
+      {
+        "time": "138.16",
+        "x": 202,
+        "y": 250,
+        "speed": 15.81,
+        "direction": "Right"
+      },
+      {
+        "time": "138.36",
+        "x": 216,
+        "y": 242,
+        "speed": 16.12,
+        "direction": "Right"
+      },
+      {
+        "time": "138.56",
+        "x": 224,
+        "y": 239,
+        "speed": 8.54,
+        "direction": "Right"
+      },
+      {
+        "time": "138.76",
+        "x": 226,
+        "y": 235,
+        "speed": 4.47,
+        "direction": "Up"
+      },
+      {
+        "time": "138.96",
+        "x": 233,
+        "y": 229,
+        "speed": 9.22,
+        "direction": "Right"
+      },
+      {
+        "time": "139.16",
+        "x": 241,
+        "y": 224,
+        "speed": 9.43,
+        "direction": "Right"
+      },
+      {
+        "time": "139.36",
+        "x": 248,
+        "y": 218,
+        "speed": 9.22,
+        "direction": "Right"
+      },
+      {
+        "time": "139.56",
+        "x": 256,
+        "y": 213,
+        "speed": 9.43,
+        "direction": "Right"
+      },
+      {
+        "time": "139.76",
+        "x": 263,
+        "y": 207,
+        "speed": 9.22,
+        "direction": "Right"
+      },
+      {
+        "time": "139.96",
+        "x": 271,
+        "y": 201,
+        "speed": 10.0,
+        "direction": "Right"
+      },
+      {
+        "time": "140.16",
+        "x": 279,
+        "y": 195,
+        "speed": 10.0,
+        "direction": "Right"
+      },
+      {
+        "time": "140.36",
+        "x": 286,
+        "y": 190,
+        "speed": 8.6,
+        "direction": "Right"
+      },
+      {
+        "time": "140.56",
+        "x": 294,
+        "y": 184,
+        "speed": 10.0,
+        "direction": "Right"
+      }
+    ]
+  },
+  "y": {
+    "emotion_readings": [
+      {
+        "time": "138.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.36",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "138.16",
+        "x": 505,
+        "y": 65,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "138.36",
+        "x": 498,
+        "y": 74,
+        "speed": 11.4,
+        "direction": "Down"
+      },
+      {
+        "time": "138.56",
+        "x": 490,
+        "y": 85,
+        "speed": 13.6,
+        "direction": "Down"
+      },
+      {
+        "time": "138.76",
+        "x": 482,
+        "y": 95,
+        "speed": 12.81,
+        "direction": "Down"
+      },
+      {
+        "time": "138.96",
+        "x": 474,
+        "y": 104,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "139.16",
+        "x": 466,
+        "y": 115,
+        "speed": 13.6,
+        "direction": "Down"
+      },
+      {
+        "time": "139.36",
+        "x": 459,
+        "y": 124,
+        "speed": 11.4,
+        "direction": "Down"
+      },
+      {
+        "time": "139.56",
+        "x": 451,
+        "y": 134,
+        "speed": 12.81,
+        "direction": "Down"
+      },
+      {
+        "time": "139.76",
+        "x": 443,
+        "y": 145,
+        "speed": 13.6,
+        "direction": "Down"
+      },
+      {
+        "time": "139.96",
+        "x": 435,
+        "y": 154,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "140.16",
+        "x": 428,
+        "y": 164,
+        "speed": 12.21,
+        "direction": "Down"
+      },
+      {
+        "time": "140.36",
+        "x": 419,
+        "y": 174,
+        "speed": 13.45,
+        "direction": "Down"
+      }
+    ]
+  },
+  "t": {
+    "emotion_readings": [
+      {
+        "time": "138.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "138.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.16",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "139.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "139.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "139.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "140.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "140.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "141.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "142.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "142.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "142.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "142.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "142.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "143.16",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "138.36",
+        "x": 343,
+        "y": 120,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "138.56",
+        "x": 343,
+        "y": 132,
+        "speed": 12.0,
+        "direction": "Down"
+      },
+      {
+        "time": "138.76",
+        "x": 342,
+        "y": 144,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "138.96",
+        "x": 341,
+        "y": 156,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "139.16",
+        "x": 340,
+        "y": 168,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "139.36",
+        "x": 339,
+        "y": 180,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "139.56",
+        "x": 338,
+        "y": 192,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "139.76",
+        "x": 337,
+        "y": 204,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "139.96",
+        "x": 337,
+        "y": 216,
+        "speed": 12.0,
+        "direction": "Down"
+      },
+      {
+        "time": "140.16",
+        "x": 335,
+        "y": 228,
+        "speed": 12.17,
+        "direction": "Down"
+      },
+      {
+        "time": "140.36",
+        "x": 335,
+        "y": 240,
+        "speed": 12.0,
+        "direction": "Down"
+      },
+      {
+        "time": "140.56",
+        "x": 334,
+        "y": 252,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "140.76",
+        "x": 333,
+        "y": 264,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "140.96",
+        "x": 332,
+        "y": 276,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "141.16",
+        "x": 331,
+        "y": 288,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "141.36",
+        "x": 330,
+        "y": 300,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "141.56",
+        "x": 329,
+        "y": 312,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "141.76",
+        "x": 329,
+        "y": 324,
+        "speed": 12.0,
+        "direction": "Down"
+      },
+      {
+        "time": "141.96",
+        "x": 327,
+        "y": 336,
+        "speed": 12.17,
+        "direction": "Down"
+      },
+      {
+        "time": "142.16",
+        "x": 327,
+        "y": 348,
+        "speed": 12.0,
+        "direction": "Down"
+      },
+      {
+        "time": "142.36",
+        "x": 326,
+        "y": 360,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "142.56",
+        "x": 325,
+        "y": 372,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "142.76",
+        "x": 324,
+        "y": 384,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "142.96",
+        "x": 323,
+        "y": 396,
+        "speed": 12.04,
+        "direction": "Down"
+      },
+      {
+        "time": "143.16",
+        "x": 322,
+        "y": 408,
+        "speed": 12.04,
+        "direction": "Down"
+      }
+    ]
+  },
+  "e": {
+    "emotion_readings": [
+      {
+        "time": "187.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "187.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "188.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "188.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "188.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "188.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "188.96",
+        "emotion": "Frustration"
+      },
+      {
+        "time": "189.16",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "189.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "189.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "189.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "189.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "190.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "190.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "190.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "190.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "190.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "191.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "191.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "191.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "191.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "191.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "192.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "192.36",
+        "emotion": "Surprise"
+      },
+      {
+        "time": "192.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "192.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "192.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "193.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "193.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "193.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "193.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "193.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "194.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "194.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "194.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "194.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "194.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "197.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "197.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "197.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "197.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "197.96",
+        "emotion": "Happiness"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "187.76",
+        "x": 318,
+        "y": 177,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "187.96",
+        "x": 308,
+        "y": 178,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "188.16",
+        "x": 299,
+        "y": 178,
+        "speed": 9.0,
+        "direction": "Left"
+      },
+      {
+        "time": "188.36",
+        "x": 289,
+        "y": 180,
+        "speed": 10.2,
+        "direction": "Left"
+      },
+      {
+        "time": "188.56",
+        "x": 279,
+        "y": 181,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "188.76",
+        "x": 269,
+        "y": 181,
+        "speed": 10.0,
+        "direction": "Left"
+      },
+      {
+        "time": "188.96",
+        "x": 259,
+        "y": 182,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "189.16",
+        "x": 249,
+        "y": 183,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "189.36",
+        "x": 240,
+        "y": 184,
+        "speed": 9.06,
+        "direction": "Left"
+      },
+      {
+        "time": "189.56",
+        "x": 230,
+        "y": 185,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "189.76",
+        "x": 219,
+        "y": 186,
+        "speed": 11.05,
+        "direction": "Left"
+      },
+      {
+        "time": "189.96",
+        "x": 210,
+        "y": 187,
+        "speed": 9.06,
+        "direction": "Left"
+      },
+      {
+        "time": "190.16",
+        "x": 200,
+        "y": 188,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "190.36",
+        "x": 190,
+        "y": 189,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "190.56",
+        "x": 180,
+        "y": 190,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "190.76",
+        "x": 170,
+        "y": 191,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "190.96",
+        "x": 160,
+        "y": 192,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "191.16",
+        "x": 151,
+        "y": 193,
+        "speed": 9.06,
+        "direction": "Left"
+      },
+      {
+        "time": "191.36",
+        "x": 141,
+        "y": 194,
+        "speed": 10.05,
+        "direction": "Left"
+      },
+      {
+        "time": "191.56",
+        "x": 131,
+        "y": 194,
+        "speed": 10.0,
+        "direction": "Left"
+      },
+      {
+        "time": "191.76",
+        "x": 121,
+        "y": 196,
+        "speed": 10.2,
+        "direction": "Left"
+      },
+      {
+        "time": "191.96",
+        "x": 365,
+        "y": 208,
+        "speed": 244.29,
+        "direction": "Right"
+      },
+      {
+        "time": "192.16",
+        "x": 367,
+        "y": 210,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "192.36",
+        "x": 370,
+        "y": 212,
+        "speed": 3.61,
+        "direction": "Right"
+      },
+      {
+        "time": "192.56",
+        "x": 372,
+        "y": 213,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "192.76",
+        "x": 374,
+        "y": 215,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "192.96",
+        "x": 376,
+        "y": 216,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "193.16",
+        "x": 379,
+        "y": 218,
+        "speed": 3.61,
+        "direction": "Right"
+      },
+      {
+        "time": "193.36",
+        "x": 380,
+        "y": 220,
+        "speed": 2.24,
+        "direction": "Down"
+      },
+      {
+        "time": "193.56",
+        "x": 382,
+        "y": 221,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "193.76",
+        "x": 385,
+        "y": 222,
+        "speed": 3.16,
+        "direction": "Right"
+      },
+      {
+        "time": "193.96",
+        "x": 387,
+        "y": 224,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "194.16",
+        "x": 389,
+        "y": 225,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "194.36",
+        "x": 391,
+        "y": 227,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "194.56",
+        "x": 394,
+        "y": 229,
+        "speed": 3.61,
+        "direction": "Right"
+      },
+      {
+        "time": "194.76",
+        "x": 395,
+        "y": 230,
+        "speed": 1.41,
+        "direction": "Down"
+      },
+      {
+        "time": "194.96",
+        "x": 398,
+        "y": 232,
+        "speed": 3.61,
+        "direction": "Right"
+      },
+      {
+        "time": "195.16",
+        "x": 400,
+        "y": 233,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "195.36",
+        "x": 402,
+        "y": 234,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "195.56",
+        "x": 404,
+        "y": 236,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "195.76",
+        "x": 406,
+        "y": 238,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "195.96",
+        "x": 409,
+        "y": 239,
+        "speed": 3.16,
+        "direction": "Right"
+      },
+      {
+        "time": "196.16",
+        "x": 410,
+        "y": 241,
+        "speed": 2.24,
+        "direction": "Down"
+      },
+      {
+        "time": "196.36",
+        "x": 413,
+        "y": 242,
+        "speed": 3.16,
+        "direction": "Right"
+      },
+      {
+        "time": "196.56",
+        "x": 415,
+        "y": 244,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "196.76",
+        "x": 417,
+        "y": 246,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "196.96",
+        "x": 419,
+        "y": 247,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "197.16",
+        "x": 422,
+        "y": 248,
+        "speed": 3.16,
+        "direction": "Right"
+      },
+      {
+        "time": "197.36",
+        "x": 424,
+        "y": 250,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "197.56",
+        "x": 426,
+        "y": 251,
+        "speed": 2.24,
+        "direction": "Right"
+      },
+      {
+        "time": "197.76",
+        "x": 428,
+        "y": 253,
+        "speed": 2.83,
+        "direction": "Down"
+      },
+      {
+        "time": "197.96",
+        "x": 430,
+        "y": 255,
+        "speed": 2.83,
+        "direction": "Down"
+      }
+    ]
+  },
+  "ss": {
+    "emotion_readings": [
+      {
+        "time": "191.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "191.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "191.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "192.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "192.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "192.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "192.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "192.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "193.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "193.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "193.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "193.76",
+        "emotion": "Stress"
+      },
+      {
+        "time": "193.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "194.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "194.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "194.56",
+        "emotion": "Stress"
+      },
+      {
+        "time": "194.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "194.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "197.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "197.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "197.56",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "191.56",
+        "x": 447,
+        "y": 224,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "191.76",
+        "x": 452,
+        "y": 223,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "191.96",
+        "x": 457,
+        "y": 222,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "192.16",
+        "x": 462,
+        "y": 221,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "192.36",
+        "x": 467,
+        "y": 220,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "192.56",
+        "x": 471,
+        "y": 219,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "192.76",
+        "x": 476,
+        "y": 218,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "192.96",
+        "x": 481,
+        "y": 217,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "193.16",
+        "x": 486,
+        "y": 217,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "193.36",
+        "x": 491,
+        "y": 215,
+        "speed": 5.39,
+        "direction": "Right"
+      },
+      {
+        "time": "193.56",
+        "x": 495,
+        "y": 214,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "193.76",
+        "x": 500,
+        "y": 214,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "193.96",
+        "x": 505,
+        "y": 213,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "194.16",
+        "x": 510,
+        "y": 211,
+        "speed": 5.39,
+        "direction": "Right"
+      },
+      {
+        "time": "194.36",
+        "x": 515,
+        "y": 210,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "194.56",
+        "x": 520,
+        "y": 210,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "194.76",
+        "x": 525,
+        "y": 209,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "194.96",
+        "x": 529,
+        "y": 208,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "195.16",
+        "x": 534,
+        "y": 206,
+        "speed": 5.39,
+        "direction": "Right"
+      },
+      {
+        "time": "195.36",
+        "x": 539,
+        "y": 206,
+        "speed": 5.0,
+        "direction": "Right"
+      },
+      {
+        "time": "195.56",
+        "x": 544,
+        "y": 205,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "195.76",
+        "x": 549,
+        "y": 204,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "195.96",
+        "x": 553,
+        "y": 203,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "196.16",
+        "x": 558,
+        "y": 202,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "196.36",
+        "x": 563,
+        "y": 201,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "196.56",
+        "x": 568,
+        "y": 200,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "196.76",
+        "x": 573,
+        "y": 199,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "196.96",
+        "x": 578,
+        "y": 198,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "197.16",
+        "x": 582,
+        "y": 197,
+        "speed": 4.12,
+        "direction": "Right"
+      },
+      {
+        "time": "197.36",
+        "x": 587,
+        "y": 196,
+        "speed": 5.1,
+        "direction": "Right"
+      },
+      {
+        "time": "197.56",
+        "x": 592,
+        "y": 195,
+        "speed": 5.1,
+        "direction": "Right"
+      }
+    ]
+  },
+  "dd": {
+    "emotion_readings": [
+      {
+        "time": "193.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "193.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "193.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "194.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "194.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "194.96",
+        "emotion": "Stress"
+      },
+      {
+        "time": "195.16",
+        "emotion": "Stress"
+      },
+      {
+        "time": "195.36",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.56",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.76",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "195.96",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.16",
+        "emotion": "Happiness"
+      },
+      {
+        "time": "196.36",
+        "emotion": "Stress"
+      },
+      {
+        "time": "196.56",
+        "emotion": "Stress"
+      }
+    ],
+    "physical_readings": [
+      {
+        "time": "193.56",
+        "x": 271,
+        "y": 179,
+        "speed": 0,
+        "direction": "Unknown"
+      },
+      {
+        "time": "193.76",
+        "x": 280,
+        "y": 161,
+        "speed": 20.12,
+        "direction": "Up"
+      },
+      {
+        "time": "193.96",
+        "x": 283,
+        "y": 104,
+        "speed": 57.08,
+        "direction": "Up"
+      },
+      {
+        "time": "194.16",
+        "x": 287,
+        "y": 75,
+        "speed": 29.27,
+        "direction": "Up"
+      },
+      {
+        "time": "194.36",
+        "x": 291,
+        "y": 46,
+        "speed": 29.27,
+        "direction": "Up"
+      },
+      {
+        "time": "194.96",
+        "x": 301,
+        "y": -40,
+        "speed": 86.58,
+        "direction": "Up"
+      },
+      {
+        "time": "195.16",
+        "x": 305,
+        "y": -69,
+        "speed": 29.27,
+        "direction": "Up"
+      },
+      {
+        "time": "195.36",
+        "x": 309,
+        "y": -98,
+        "speed": 29.27,
+        "direction": "Up"
+      },
+      {
+        "time": "195.56",
+        "x": 312,
+        "y": -127,
+        "speed": 29.15,
+        "direction": "Up"
+      },
+      {
+        "time": "195.76",
+        "x": 316,
+        "y": -156,
+        "speed": 29.27,
+        "direction": "Up"
+      },
+      {
+        "time": "195.96",
+        "x": 320,
+        "y": -185,
+        "speed": 29.27,
+        "direction": "Up"
+      },
+      {
+        "time": "196.16",
+        "x": 323,
+        "y": -214,
+        "speed": 29.15,
+        "direction": "Up"
+      },
+      {
+        "time": "196.36",
+        "x": 327,
+        "y": -243,
+        "speed": 29.27,
+        "direction": "Up"
+      },
+      {
+        "time": "196.56",
+        "x": 331,
+        "y": -272,
+        "speed": 29.27,
+        "direction": "Up"
+      }
+    ]
+  }
+}
